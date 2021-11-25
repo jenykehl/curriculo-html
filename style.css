@@ -1,0 +1,55 @@
+.titulo-principal{
+	color: #F8F8FF;
+	background: #836FFF;
+	padding-left: 31px;
+}
+
+#banner {
+	background: #836FFF;
+	width:60%;
+	padding-left: 0px;
+}
+
+.historia{
+	background: #836FFF;
+	padding: 15px;
+}
+
+.historia-principal{
+	color: #F8F8FF;
+	text-align: left;
+	background: #836FFF;
+	padding: 30px;
+}
+
+.identidade{
+	color: #F8F8FF;
+	background: #836FFF;
+	padding: 30px;
+}
+
+.cursos{
+	color: #F8F8FF;
+	background: #836FFF;
+	padding: 30px;
+}
+
+.trabalho{
+	color: #191970;
+	background: #FFD700;
+	padding: 30px;
+}
+
+p {
+	text-align: right;
+}
+
+ul {
+	color: #F8F8FF;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+
